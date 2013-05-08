@@ -1,4 +1,5 @@
 hello
-tested git protocol
+tested ssh protocol
 now https
-https failed. back to git
+https failed. back to ssh
+git protocol is read only
